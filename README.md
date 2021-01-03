@@ -1,1 +1,6 @@
-# thshinpiroku
+# 使い方
+
+<ul>
+  <li>全てDLする。</li>
+  <li>同じフォルダに置くように。</li>
+</ul>
