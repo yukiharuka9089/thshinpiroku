@@ -1,0 +1,12 @@
+[2021/1/23 10:36:24]
+cause=app crash
+module=th145.exe
+code=0xe06d7363
+addr=0x767da842
+flag=0x1
+[2021/1/23 10:37:28]
+cause=app crash
+module=th145.exe
+code=0xe06d7363
+addr=0x767da842
+flag=0x1
